@@ -35,5 +35,5 @@ Cria um novo documento
 
 * _Commit_ referente a código ou documento com _tag_
 ```
-[Issue-11] Updates bot answers
+[Issue_11] Updates bot answers
 ```
