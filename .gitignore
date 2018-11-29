@@ -7,3 +7,6 @@ crawler/result.json
 crawler/menu.json
 crawler/downloads
 __pycache__
+notebooks/errors.json
+notebooks/.ipynb_checkpoints/
+notebooks/models/
